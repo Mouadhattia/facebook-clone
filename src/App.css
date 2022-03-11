@@ -1,0 +1,16 @@
+body {
+    background-color: #18191A;
+    overflow-x: hidden;
+}
+
+.app__page {
+    display: flex;
+}
+
+.app__posts {
+    display: flex;
+    justify-content: center;
+    width: 100%;
+    
+   
+}
